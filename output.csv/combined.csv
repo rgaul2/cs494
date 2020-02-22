@@ -1,3 +1,4 @@
+battery_level,c02_level,cca2,cca3,cn,device_id,device_name,humidity,ip,latitude,lcd,longitude,scale,temp,timestamp
 5,1217,AE,ARE,United Arab Emirates,501,device-mac-501e4OlB3SoO,48,213.42.16.154,24,yellow,54,Celsius,16,1458444054343
 0,915,AR,ARG,Argentina,227,meter-gauge-2273pen9hQb,34,200.71.230.81,-34.6,green,-58.38,Celsius,15,1458444054251
 1,1189,AR,ARG,Argentina,319,meter-gauge-319Y3ZxeGO,54,200.71.236.145,-34.6,yellow,-58.38,Celsius,25,1458444054287
